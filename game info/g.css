@@ -1,0 +1,51 @@
+h1{
+	text-align: center;
+	background-color: blue;
+	color:white;
+	padding: 30px; 
+}
+hr{
+	border:2px solid blue;
+}
+
+p{
+	background-color:blue;
+	color:white;
+	padding: 20px;
+	margin-left:100px;
+	margin-right:100px;
+}
+
+img{
+	border-radius: 4px;
+	width: 100%;
+}
+
+li{
+	display: inline;
+	margin: 100px;
+
+}
+
+ul{
+	list-style: none;
+}
+li a {
+	color:white;
+	text-decoration: none;
+}
+
+li a:hover {
+	color:red;
+	
+}
+footer{
+	background-color: blue;
+	color:white;
+	padding: 10px;
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color:white; 
+}
